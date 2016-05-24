@@ -1,12 +1,6 @@
 
 '''
 Author: Igor Lapshun
-This is a deep-learning course final project.
-Implementation followed by: http://arxiv.org/pdf/1511.06361v5.pdf
-Note: This is based on Keras v1.0.3 framework with several modified engine
-files - since the library is very buggy.
-Enjoy!
-
 '''
 
 #This is the configurations/ meta parameters for this model
