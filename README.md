@@ -1,4 +1,4 @@
-# image_caption
+# Keras deep learning image caption retrieval embedding
 
 
 This is an implementaton of an image caption retrieval system based 
